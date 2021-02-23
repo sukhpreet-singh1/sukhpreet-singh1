@@ -1,4 +1,10 @@
-### Hi there 👋
+#Sukhpreet Singh
+-->Second year student at IIIT Kalyani
+-->currently participant at GSSOC'21
+-->Data Scientist intern
+-->Competitive Coder
+-->Open source Contributor
+
 
 <!--
 **sukhpreet-singh1/sukhpreet-singh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sukhpreet-singh1&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukhpreet-singh1&show_icons=true)
