@@ -1,9 +1,9 @@
-#Sukhpreet Singh
--->Second year student at IIIT Kalyani
--->currently participant at GSSOC'21
--->Data Scientist intern
--->Competitive Coder
--->Open source Contributor
+###Sukhpreet Singh
+-Second year student at IIIT Kalyani
+-currently participant at GSSOC'21
+-Data Scientist intern
+-Competitive Coder
+-Open source Contributor
 
 
 <!--
