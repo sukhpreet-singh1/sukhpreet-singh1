@@ -5,8 +5,11 @@
 - Data Scientist intern
 - Competitive Coder
 - Open source Contributor
-``` HTML5
-    <p> i am getting forward</p>
+``` javascript
+    if(coding && opensource)
+        alert("Success")
+    else
+        alert("Retry")
 ```
 
 <!--
