@@ -1,4 +1,4 @@
-![caption](https://www.youtube.com/watch?v=LZOnSpSki1o)
+![Demo](demo/demo.gif)
 # **Sukhpreet Singh**
 - Second year student at IIIT Kalyani
 - currently participant at GSSOC'21
