@@ -1,4 +1,4 @@
-###Sukhpreet Singh
+# **Sukhpreet Singh**
 -Second year student at IIIT Kalyani
 -currently participant at GSSOC'21
 -Data Scientist intern
