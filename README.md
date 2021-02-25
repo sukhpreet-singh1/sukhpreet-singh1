@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukhpreet-singh1&show_icons=true)
 
-
+<center>
 [![alt text][1.1]][1]
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
@@ -54,3 +54,4 @@ Here are some ideas to get you started:
 [5]: http://dribbble.com/carlsednaoui
 [6]: http://www.github.com/carlsednaoui
 
+</center>
