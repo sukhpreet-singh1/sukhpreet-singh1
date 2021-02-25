@@ -1,10 +1,18 @@
 ![Demo](demo/demo.gif)
-
+<details>
+    <summary>Wanna Know About Me!</summary>
+    
+    
+    
+    
 - Second year student at IIIT Kalyani
 - currently participant at GSSOC'21
 - Data Scientist intern
 - Competitive Coder
 - Open source Contributor
+
+</details>
+   
 ``` javascript
     if(coding && opensource)
         alert("Success")
