@@ -15,6 +15,22 @@
         alert("Retry")
 ```
 
+
+### languages i Know:
+- C
+- C++
+- JAVA
+- Javascript
+- Python
+- HTML/CSS
+
+### Frameworks:
+- React
+- Node
+- Express
+- Numpy
+- Scikit-learn
+
 <details>
     <summary>Hobbies and Interest!</summary>
     
@@ -25,20 +41,6 @@
     
 </details>
 
-#### languages i Know:
-- C
-- C++
-- JAVA
-- Javascript
-- Python
-- HTML/CSS
-
-####Frameworks:
-- React
-- Node
-- Express
-- Numpy
-- Scikit-learn
 
 <!--
 **sukhpreet-singh1/sukhpreet-singh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
