@@ -27,23 +27,23 @@
 </details>
 
 <details>
-    <summary> Frameworks </summary>
+     <summary> Frameworks </summary>
 
-      - React
-      - Node
-      - Express
-      - Numpy
-      - Scikit-learn
+         - React
+         - Node
+         - Express
+         - Numpy
+         - Scikit-learn
 
 </details>
 
 <details>
-      <summary> Hobbies and Interest!</summary>
+     <summary> Hobbies and Interest!</summary>
             
-     - Sketching 
-     - Swimming
-     - Horse riding
-     - Knowing about new tech and gadgets
+         - Sketching 
+         - Swimming
+         - Horse riding
+         - Knowing about new tech and gadgets
 
 </details>
 
