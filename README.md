@@ -16,7 +16,7 @@
 ```
 
 <details>
-    <summary> ### Languages i Know </summary>
+    <summary> Languages i Know </summary>
     
     - C
     - C++
@@ -28,7 +28,7 @@
 </details>
 
 <details>
-    <summary> ### Frameworks </summary>
+    <summary> Frameworks </summary>
     
     - React
     - Node
@@ -39,7 +39,7 @@
 </details>
 
 <details>
-    <summary> ### Hobbies and Interest!</summary>
+    <summary> Hobbies and Interest!</summary>
     
     - Sketching 
     - Swimming
