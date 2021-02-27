@@ -1,54 +1,51 @@
 ![Demo](demo/demo.gif)
-
-<div style=" background-image: url('https://image.freepik.com/free-vector/white-background-with-wavy-lines-copy-space_23-2148822145.jpg')">
-    
-
-        - Second year student at IIIT Kalyani
-        - currently participant at GSSOC'21
-        - Data Scientist intern
-        - Competitive Coder
-        - Open source Contributor
+ 
+    - Second year student at IIIT Kalyani
+    - currently participant at GSSOC'21
+    - Data Scientist intern
+    - Competitive Coder
+    - Open source Contributor
 
 
-        ``` javascript
-            if(coding && opensource)
-                alert("Success")
-            else
-                alert("Retry")
-        ```
+``` javascript
+       if(coding && opensource)
+            alert("Success")
+       else
+            alert("Retry")
+```
 
-        <details>
-            <summary> Languages i Know </summary>
+<details>
+     <summary> Languages i Know </summary>
 
-            - C
-            - C++
-            - JAVA
-            - Javascript
-            - Python
-            - HTML/CSS
+         - C
+         - C++
+         - JAVA
+         - Javascript
+         - Python
+         - HTML/CSS
 
-        </details>
+</details>
 
-        <details>
-            <summary> Frameworks </summary>
+<details>
+    <summary> Frameworks </summary>
 
-            - React
-            - Node
-            - Express
-            - Numpy
-            - Scikit-learn
+      - React
+      - Node
+      - Express
+      - Numpy
+      - Scikit-learn
 
-        </details>
+</details>
 
-        <details>
-            <summary> Hobbies and Interest!</summary>
+<details>
+      <summary> Hobbies and Interest!</summary>
+            
+     - Sketching 
+     - Swimming
+     - Horse riding
+     - Knowing about new tech and gadgets
 
-            - Sketching 
-            - Swimming
-            - Horse riding
-            - Knowing about new tech and gadgets
-
-        </details>
+</details>
 
 
         <!--
@@ -65,6 +62,5 @@
         - 😄 Pronouns: ...
         - ⚡ Fun fact: ...
         -->
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukhpreet-singh1&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukhpreet-singh1&show_icons=true)
 
-</div>    
