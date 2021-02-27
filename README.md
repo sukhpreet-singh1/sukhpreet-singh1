@@ -16,23 +16,25 @@
 ```
 
 <details>
-    <summary> ### languages i Know: </summary>
-- C
-- C++
-- JAVA
-- Javascript
-- Python
-- HTML/CSS
-
+    <summary> ### Languages i Know </summary>
+    
+    - C
+    - C++
+    - JAVA
+    - Javascript
+    - Python
+    - HTML/CSS
+    
 </details>
 
 <details>
-    <summary> ### Frameworks: </summary>
-- React
-- Node
-- Express
-- Numpy
-- Scikit-learn
+    <summary> ### Frameworks </summary>
+    
+    - React
+    - Node
+    - Express
+    - Numpy
+    - Scikit-learn
 
 </details>
 
