@@ -15,8 +15,8 @@
         alert("Retry")
 ```
 
-
-### languages i Know:
+<details>
+    <summary> ### languages i Know: </summary>
 - C
 - C++
 - JAVA
@@ -24,15 +24,20 @@
 - Python
 - HTML/CSS
 
-### Frameworks:
+</details>
+
+<details>
+    <summary> ### Frameworks: </summary>
 - React
 - Node
 - Express
 - Numpy
 - Scikit-learn
 
+</details>
+
 <details>
-    <summary>Hobbies and Interest!</summary>
+    <summary> ### Hobbies and Interest!</summary>
     
     - Sketching 
     - Swimming
