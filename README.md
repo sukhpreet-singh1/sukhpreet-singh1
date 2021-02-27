@@ -1,6 +1,6 @@
 ![Demo](demo/demo.gif)
 
-<div style=" background-image: url('https://image.freepik.com/free-vector/white-background-with-wavy-lines-copy-space_23-2148822145.jpg');">
+<div style=" background-image: url('https://image.freepik.com/free-vector/white-background-with-wavy-lines-copy-space_23-2148822145.jpg')">
     
 
         - Second year student at IIIT Kalyani
