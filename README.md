@@ -49,5 +49,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukhpreet-singh1&show_icons=true)
  
- i ma here to present uo
-  connect with me
+ i ma here to present uo  
+ connect with me
