@@ -27,7 +27,7 @@
 </details>
 
 <details>
-     <summary> Frameworks </summary>
+     <summary> Libraries </summary>
 
          - React
          - Node
