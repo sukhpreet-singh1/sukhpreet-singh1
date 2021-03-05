@@ -48,6 +48,6 @@
 </details>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukhpreet-singh1&show_icons=true)
-Connect with me !
+Connect with me ! 
 
 
