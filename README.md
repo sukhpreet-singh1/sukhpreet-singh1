@@ -33,7 +33,6 @@
          - Node
          - Express
          - Numpy
-         - Scikit-learn
 
 </details>
 
