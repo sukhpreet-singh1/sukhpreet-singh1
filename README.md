@@ -22,7 +22,7 @@
          - JAVA
          - Javascript
          - Python
-         - HTML/CSS
+      
 
 </details>
 
